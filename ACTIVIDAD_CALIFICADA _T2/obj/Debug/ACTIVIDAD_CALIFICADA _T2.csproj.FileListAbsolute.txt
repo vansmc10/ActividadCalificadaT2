@@ -1,0 +1,24 @@
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.exe
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.pdb
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.exe
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.pdb
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Enunciado1.resources
+C:\Users\USUARIO\OneDrive\Documentos\DHAC\Trabajos\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Enunciado2.resources
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.AssemblyReference.cache
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Enunciado1.resources
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Enunciado2.resources
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Form1.resources
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA__T2.Properties.Resources.resources
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.GenerateResource.cache
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.csproj.CoreCompileInputs.cache
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.exe
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\obj\Debug\ACTIVIDAD_CALIFICADA _T2.pdb
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.exe.config
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.exe
+D:\Ivan\Universidad\Ciclo III\Fundamentos de Programacion\T2\ACTIVIDAD_CALIFICADA _T2\ACTIVIDAD_CALIFICADA _T2\bin\Debug\ACTIVIDAD_CALIFICADA _T2.pdb
